@@ -1,0 +1,5 @@
+E:\Modul4_1302210071\Modul4_1302210071\obj\Debug\net6.0\Modul4_1302210071.csproj.AssemblyReference.cache
+E:\Modul4_1302210071\Modul4_1302210071\obj\Debug\net6.0\Modul4_1302210071.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modul4_1302210071\Modul4_1302210071\obj\Debug\net6.0\Modul4_1302210071.AssemblyInfoInputs.cache
+E:\Modul4_1302210071\Modul4_1302210071\obj\Debug\net6.0\Modul4_1302210071.AssemblyInfo.cs
+E:\Modul4_1302210071\Modul4_1302210071\obj\Debug\net6.0\Modul4_1302210071.csproj.CoreCompileInputs.cache
